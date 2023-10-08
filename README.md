@@ -1,4 +1,4 @@
-# Leaderboard-Study-Jam
+# Leaderboard For the Google Cloud Study Jam 2023 for GDSC JGEC Students
 
 This leaderboard is for the cloud enthusiastic students of Jalpaiguri Government Engineering College (JGEC) to help them understand their relative position in the cloud campaign.
 It could act as a source of encouragement for them to learn and grow together; and explore more cloud technologies with peers as interested as them in this domain.
