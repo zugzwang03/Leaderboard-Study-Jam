@@ -5,4 +5,4 @@ It could act as a source of encouragement for them to learn and grow together; a
 
 The content is owned by GDSC JGEC, and we do not encourage any reuse of our product without informing us. Neverthless, we do appreciate open source contribution to our repo because that helps us improve the product.
 
-![Big board](https://github.com/zugzwang03/Leaderboard-Study-Jam/assets/95460021/ae75ef31-b1f5-4dbe-8a4e-bb04f114c7bb)
+![Big board](https://github.com/zugzwang03/Leaderboard-Study-Jam/assets/95460021/4aab6520-2bc9-4282-afe8-78ac0b89f766)
